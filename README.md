@@ -10,7 +10,7 @@ npm install
 npm start
 
 # run server
-start-server
+npm start-server
 
 
 ```
